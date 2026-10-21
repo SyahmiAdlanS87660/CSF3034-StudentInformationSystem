@@ -31,6 +31,7 @@ public class Student_Information_System {
         
         System.out.println("Student Name : Syahmi Adlan");
         System.out.println("Student ID : S87660 ");
+        System.out.println("Favourite Food : Mango");
         
         int mark1;
         mark1 = 40;
@@ -48,6 +49,8 @@ public class Student_Information_System {
         
         System.out.println("Your total mark is: " +total);
         System.out.println("Comment: Excellent");
+        
+        
         
                 
         
