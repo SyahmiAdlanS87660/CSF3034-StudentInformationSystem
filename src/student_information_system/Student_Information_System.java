@@ -42,6 +42,16 @@ public class Student_Information_System {
         
         System.out.println("Your second mark is : " +mark2);
         
+        //feature-result
+        
+        int total = mark1 + mark2;
+        
+        System.out.println("Your total mark is: " +total);
+        System.out.println("Comment: Excellent");
+        
+                
+        
+                
         
         
         
